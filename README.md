@@ -1,2 +1,2 @@
 # Fibonacci
-Fibonacci sequence for a number from user
+Get the Fibonacci sequence for any number from user in Java
